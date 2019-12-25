@@ -1,4 +1,5 @@
 #!/bin/sh
+# エクセルからコピー&ペーストしたファイル(*.csv)を、カンマ区切りに生計するスクリプト.
 
 cd /Users/name/Desktop/studyVim
 
